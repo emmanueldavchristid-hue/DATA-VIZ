@@ -1,0 +1,10 @@
+name: BRFSS-Analyse-Sante-2026
+title:
+username: mouhishinydashboard
+account: mouhishinydashboard
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16458619
+bundleId: 11466553
+url: https://mouhishinydashboard.shinyapps.io/BRFSS-Analyse-Sante-2026/
+version: 1

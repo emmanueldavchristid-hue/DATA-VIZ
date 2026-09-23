@@ -1,0 +1,10 @@
+name: data_viz
+title:
+username: mouhishinydashboard
+account: mouhishinydashboard
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16458471
+bundleId: 11466484
+url: https://mouhishinydashboard.shinyapps.io/data_viz/
+version: 1
